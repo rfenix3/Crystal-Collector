@@ -4,6 +4,10 @@
       	height: 100px;
   	}
 
+  	#gameTitle {
+  		background-color: #49d4f4;
+  	}
+
   	.row {
   		margin-top: 2px;
   		margin-bottom: 0px;
